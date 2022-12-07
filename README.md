@@ -1,6 +1,6 @@
 ## Data Analytics Portfolio / ANLY-4100-A7
 
-Hello all! This repository is dedicated to myself, Cameron Chambers, and the ANLY-4100 assignments completed throughout the Fall '22 semester. I am currently an undergraduate student attending Southern Utah University. I am working towards Bachelor's Degrees in both Computer Science and Mathematics (Applied Mathematics) at the moment, as well as a Data Science certificate. I am currently employed at Centro Woodfired Pizzeria as a Server, but before I turned 21 and became a server, I cross-trained into every other position within the restaurant. This ultimately allowed me to learn how each position works individually, as well as how they work together. As of right now, my plan is to graduate from Southern Utah University in the spring of 2024, where I will then look to pursue a career as a Data Analyst/Data Scientist. Below is a link to my résumé, my CV and LinkedIn page, and a table of contents pertaining to the assignments I have completed in ANLY-4100 throughout the Fall '22 semester.
+This is the portfolio of all class assignments I have completed in Data Analytics I (ANLY-4100) for the Fall '22 semester. Below is a link to my résumé, my CV and LinkedIn pages, and a table of contents pertaining to the class assignments.
 
 ## My Résumé + Links to CV & LinkedIn
 - [Résumé](https://colab.research.google.com/drive/1nBtYDGlYerUZkZv6NrtSzjDrndEQ4tx7?usp=drive_open)
